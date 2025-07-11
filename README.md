@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:93FB9D,100:09C7FB" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:003380,100:e6b800&textBg=false&reversal=false&descAlign=49&section=header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -29,9 +29,9 @@
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=FabioHNardella&theme=gotham&hide_border=true&exclude_days=Sun" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=FabioHNardella&theme=python-dark" alt="GitHub Streak" /></a>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHNardella&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=30" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHNardella&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=30" />
 </p>
 
 **Nota**: As linguagens acima refletem os repositórios públicos e podem não indicar o nível de experiência.
@@ -41,4 +41,4 @@
 -  Sempre em busca de me superar e conhecer mais sobre o mundo da tecnologia! 
 -  Fique à vontade para trocar ideias!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:93FB9D,100:09C7FB&reversal=true&descAlignY=0&descAlign=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:003380,100:e6b800&textBg=false&reversal=true&descAlign=49&section=footer" />
