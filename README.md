@@ -11,7 +11,7 @@
 🎓 Estudante de **Sistemas de Informação** na [FIAP](https://www.fiap.com.br/) <br>
 💡 Apaixonado por tecnologia desde a infância e por programação desde 2021 <br>
 🚀 Buscando oportunidades de estágio na área de **TI** e **Desenvolvimento** <br>
-🤝 Gosto de aprender, colaborar e crescer junto com o time <br>
+🤝 Gosto de aprender, colaborar e crescer junto com o time! Críticas sempre serão bem vindas! <br>
 
 ## 📚 Linguagens e Ferramentas
 
@@ -39,7 +39,7 @@
 
 ---
 
-- 🌱 Sempre em busca de novos aprendizados  
+- 🌱 Sempre em busca de me superar e conhecer mais sobre o mundo da tecnologia! 
 - 💬 Fique à vontade para trocar ideias!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:93FB9D,100:09C7FB&reversal=true&descAlignY=0&descAlign=100&section=footer" />
