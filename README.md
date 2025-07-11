@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JettBrains+Mono&duration=5100&pause=1000&color=F7F7F6&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Fabio+Henrique+%F0%9F%91%8B" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F72C&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+o+Fabio!+Prazer!" alt="Typing SVG" /></a>
 </p>
 
 ## Sobre Mim
