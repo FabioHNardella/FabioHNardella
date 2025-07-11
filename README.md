@@ -5,14 +5,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+o+Fabio!+Prazer!" alt="Typing SVG" /></a>
 </p>
 
-## Sobre Mim
+## --> Sobre Mim
 
 🎓 Estudante de **Sistemas de Informação** na [FIAP](https://www.fiap.com.br/) <br>
 💡 Apaixonado por tecnologia desde a infância e por programação desde 2021 <br>
 🚀 Buscando oportunidades de estágio na área de **TI** e **Desenvolvimento** <br>
 🤝 Gosto de aprender, colaborar e crescer junto com o time! Críticas sempre serão bem vindas! <br>
 
-## 📚 Linguagens e Ferramentas
+## --> Linguagens e Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -20,12 +20,12 @@
   </a>
 </p>
 
-## 📎 Conecte-se Comigo
+## --> Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiohnardella/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabioHNardella)
 
-## 👨‍💻 Meus Dados do GitHub
+## --> Meus Dados do GitHub
 
 <p align="left">
   <a href="https://git.io/streak-stats">
@@ -38,7 +38,7 @@
 
 ---
 
-- 🌱 Sempre em busca de me superar e conhecer mais sobre o mundo da tecnologia! 
-- 💬 Fique à vontade para trocar ideias!
+-  Sempre em busca de me superar e conhecer mais sobre o mundo da tecnologia! 
+-  Fique à vontade para trocar ideias!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:93FB9D,100:09C7FB&reversal=true&descAlignY=0&descAlign=100&section=footer" />
